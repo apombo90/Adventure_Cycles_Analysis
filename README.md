@@ -63,3 +63,5 @@ Finally, the user can filter this page of the report too. Let’s say the client
 
 ![image](https://user-images.githubusercontent.com/91766276/159367191-1bc5ac50-4c94-4b13-9f69-11a1776bde0f.png)
 
+*The data is provided by Microsoft and all the example company, products, customers, places are fictitious.
+
