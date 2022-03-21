@@ -59,3 +59,7 @@ The final page of the report provides a view of all customers information, to an
 
 ![image](https://user-images.githubusercontent.com/91766276/159366216-06674271-5287-4416-ac1e-6b98517d193d.png)
 
+Finally, the user can filter this page of the report too. Let’s say the client wants to know information about male customers who are professionals, have a high-level income and are 65 years old. By clicking and selecting each filter the report will show all the customers and meet those criteria as shown in this picture:
+
+![image](https://user-images.githubusercontent.com/91766276/159367191-1bc5ac50-4c94-4b13-9f69-11a1776bde0f.png)
+
